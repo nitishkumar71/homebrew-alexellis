@@ -1,8 +1,8 @@
 class Arkade < Formula
     desc "Open Source Kubernetes Marketplace"
-    url "https://github.com/alexellis/arkade/releases/download/0.7.6/arkade-darwin"
-    sha256 "83db935dfa4fb3a4a842ec5914d64ef319babea9416c2916a796d6da531fa223"
-    version "0.7.6"
+    url "https://github.com/alexellis/arkade/releases/download/0.7.7/arkade-darwin"
+    sha256 "67c860c8c08cb0eeeeac967a80f693d1a9d50b4fc940d2e51bf5e54e4f48e45e"
+    version "0.7.7"
     bottle :unneeded
     
     def install
